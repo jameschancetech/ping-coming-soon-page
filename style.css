@@ -48,10 +48,25 @@
 	font-size: 1.1rem;
 }
 
-
-#mainImage {
-	width: 75%;
+#emailAddress {
+	font-family: 'Libre Franklin', sans-serif;
+	border-radius: 30px;
+	padding: 25px 30px;
+	color: lightgray;
+	border-color: lightgray;
 }
+
+#notify {
+	border-radius: 30px;
+	padding: 12.5px 50px;
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 700;
+
+}
+#mainImage {
+	width: 50%;
+}
+
 
 /* FOOTER */
 .attribution { 
