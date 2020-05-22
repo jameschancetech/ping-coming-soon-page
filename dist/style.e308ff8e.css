@@ -5,7 +5,7 @@
 }
 
 .container {
-  max-width: 1440px;
+	max-width: 1440px;
 }
 
 #firstRow {
@@ -51,9 +51,6 @@
 }
 
 /*  FORM AREA */
-#formDiv {
-	margin-bottom: 50px;
-}
 
 #emailAddress {
 	font-family: 'Libre Franklin', sans-serif;
@@ -76,16 +73,16 @@
 /*  MAIN IMAGE */
 
 #imageDiv {
-	margin-top: 50px;
+	padding: 50px 0;
 }
 
 #mainImage {
 	width: 50%;
 }
 
-
 /* FOOTER */
 .attribution { 
+	margin-top: 50px;
 	font-size: 11px; 
 	text-align: center; 
 }
