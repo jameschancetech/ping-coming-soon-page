@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
-    "custom": "parcel index.html"
+    "custom": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -26,7 +27,6 @@
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "build": "parcel build index.html"
+    "parcel-bundler": "^1.12.4"
   }
 }
